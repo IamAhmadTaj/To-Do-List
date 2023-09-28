@@ -14,7 +14,7 @@ int main() {
     while (true) {
         cout << "\nMenu:" << endl;
         cout << "1. Add Task" << endl;
-        cout << "2. List Tasks" << endl;
+        cout << "2. Display Tasks" << endl;
         cout << "3. Remove Task" << endl;
         cout << "4. Quit" << endl;
         cout << "Enter your choice: ";
